@@ -4,8 +4,5 @@ spring:
   profiles: dev #开发环境
   application:
     name: MICROSERVICE-USER-DEV
-eureka:
-  client:
-    service-url:
-      defaultZone: http://localhost:8080/eureka/,http://localhost:8081/eureka/,http://localhost:8082/eureka/
+
 test: 哈哈
