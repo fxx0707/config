@@ -1,0 +1,6 @@
+server: 
+  port: 3355
+spring:
+  profiles: dev #开发环境
+  application:
+    name: MICROSERVICE-USER-DEV
