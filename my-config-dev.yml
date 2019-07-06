@@ -5,4 +5,4 @@ spring:
   application:
     name: MICROSERVICE-USER-DEV
 
-test: 哈哈
+test: 嘻嘻
